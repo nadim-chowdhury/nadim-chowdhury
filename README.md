@@ -20,4 +20,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![Netlify Status](https://api.netlify.com/api/v1/badges/602da712-2a69-4bf0-9508-d997b55d49dd/deploy-status)](https://app.netlify.com/sites/hoo-bnk/deploys)
+[![HooBank Project](https://api.netlify.com/api/v1/badges/602da712-2a69-4bf0-9508-d997b55d49dd/deploy-status)](https://app.netlify.com/sites/hoo-bnk/deploys)
+
+[![GPT3 Clone](https://api.netlify.com/api/v1/badges/8f239498-a82d-4013-8ade-dc266e0b3908/deploy-status)](https://app.netlify.com/sites/gpt3aiclone/deploys)
+
+[![CoiinBase Clone Project](https://api.netlify.com/api/v1/badges/e822074f-81bc-4382-9a2e-4ecc50917465/deploy-status)](https://app.netlify.com/sites/coiinbase/deploys)
