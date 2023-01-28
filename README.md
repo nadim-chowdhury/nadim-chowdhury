@@ -33,9 +33,6 @@ I'm a creative and passionate web developer who likes to build and develop websi
 # Latest Tweet
 [![](https://gtce.itsvg.in/api?username=nadim_ch0wdhury)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-# Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
 # Others + Projects
 [![](https://visitcount.itsvg.in/api?id=nadim-chowdhury&icon=0&color=0)](https://visitcount.itsvg.in)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/e822074f-81bc-4382-9a2e-4ecc50917465/deploy-status)](https://app.netlify.com/sites/coiinbase/deploys)
