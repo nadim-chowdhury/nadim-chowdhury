@@ -20,4 +20,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nadim-chowdhury&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/602da712-2a69-4bf0-9508-d997b55d49dd/deploy-status)](https://app.netlify.com/sites/hoo-bnk/deploys)
