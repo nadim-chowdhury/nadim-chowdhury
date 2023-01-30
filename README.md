@@ -1,7 +1,6 @@
 # About Me
 I'm a creative and passionate web developer who likes to build and develop websites for anyone. Learning, improving skills, and adapting to new technologies are my hobbies. I can give my total effort and perform any teamwork with responsibility.
 
-
 # Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nadim-chowdhury)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nadim_ch0wdhury)
@@ -38,4 +37,8 @@ I'm a creative and passionate web developer who likes to build and develop websi
 [![](https://visitcount.itsvg.in/api?id=nadim-chowdhury&icon=0&color=0)](https://visitcount.itsvg.in)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/e822074f-81bc-4382-9a2e-4ecc50917465/deploy-status)](https://app.netlify.com/sites/coiinbase/deploys)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/8f239498-a82d-4013-8ade-dc266e0b3908/deploy-status)](https://app.netlify.com/sites/gpt3aiclone/deploys)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/602da712-2a69-4bf0-9508-d997b55d49dd/deploy-status)](https://app.netlify.com/sites/hoo-bnk/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/602da712-2a69-4bf0-9508-d997b55d49dd/deploy-status)](https://app.netlify.com/sites/hoo-bnk/deploys) <hr>
+
+Project 1 : HooBank App - https://hoo-bnk.netlify.app <hr>
+Project 2 : GPT-3 Ai - https://gpt3aiclone.netlify.app <hr>
+Project 3 : CoinBase Clone - https://coiinbase.netlify.app
