@@ -39,9 +39,9 @@ I'm a creative and passionate web developer who likes to build and develop websi
 [![Netlify Status](https://api.netlify.com/api/v1/badges/8f239498-a82d-4013-8ade-dc266e0b3908/deploy-status)](https://app.netlify.com/sites/gpt3aiclone/deploys)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/602da712-2a69-4bf0-9508-d997b55d49dd/deploy-status)](https://app.netlify.com/sites/hoo-bnk/deploys) <hr>
 
-Project 1 : HooBank App - https://hoo-bnk.netlify.app <hr>
-Project 2 : GPT-3 Ai - https://gpt3aiclone.netlify.app <hr>
-Project 3 : CoinBase Clone - https://coiinbase.netlify.app <hr>
-Project 4 : E-Commerce Site - https://ec0mmerce.netlify.app <hr>
-Project 5 : Cars Website - https://greatcars.netlify.app <hr>
-Project 5 : Vanilla Resume - https://vanillaportfolio.netlify.app
+Project 1 : HooBank App - https://hoo-bnk.netlify.app (React Js) <hr>
+Project 2 : GPT-3 Ai - https://gpt3aiclone.netlify.app (React Js) <hr>
+Project 3 : CoinBase Clone - https://coiinbase.netlify.app (React Js) <hr>
+Project 4 : E-Commerce Site - https://ec0mmerce.netlify.app (Html, Css, Js) <hr>
+Project 5 : Cars Website - https://greatcars.netlify.app (Html, Css) <hr>
+Project 5 : Vanilla Resume - https://vanillaportfolio.netlify.app (Html, Css)
