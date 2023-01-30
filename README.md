@@ -41,4 +41,7 @@ I'm a creative and passionate web developer who likes to build and develop websi
 
 Project 1 : HooBank App - https://hoo-bnk.netlify.app <hr>
 Project 2 : GPT-3 Ai - https://gpt3aiclone.netlify.app <hr>
-Project 3 : CoinBase Clone - https://coiinbase.netlify.app
+Project 3 : CoinBase Clone - https://coiinbase.netlify.app <hr>
+Project 4 : E-Commerce Site - https://ec0mmerce.netlify.app <hr>
+Project 5 : Cars Website - https://greatcars.netlify.app <hr>
+Project 5 : Vanilla Resume - https://vanillaportfolio.netlify.app
