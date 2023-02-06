@@ -44,5 +44,5 @@ Project 2 : GPT-3 Ai - https://gpt3aiclone.netlify.app ( React Js ) <hr>
 Project 3 : CoinBase Clone - https://coiinbase.netlify.app ( React Js ) <hr>
 Project 4 : E-Commerce Site - https://ec0mmerce.netlify.app ( Html, Css, Js ) <hr>
 Project 5 : Cars Website - https://greatcars.netlify.app ( Html, Css ) <hr>
-Project 5 : Vanilla Resume - https://vanillaportfolio.netlify.app ( Html, Css ) <hr>
-Project 6 : ChatGPT 2.0 - https://client-chat-gpt-2-0.vercel.app ( React Js, Vite )
+Project 6 : Vanilla Resume - https://vanillaportfolio.netlify.app ( Html, Css ) <hr>
+Project 7 : ChatGPT 2.0 - https://client-chat-gpt-2-0.vercel.app ( React Js, Vite )
