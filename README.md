@@ -45,6 +45,6 @@ Project 3 : CoinBase Clone - https://coiinbase.netlify.app ( React Js ) <hr>
 Project 4 : E-Commerce Site - https://ec0mmerce.netlify.app ( Html, Css, Js ) <hr>
 Project 5 : Cars Website - https://greatcars.netlify.app ( Html, Css ) <hr>
 Project 6 : Vanilla Resume - https://vanillaportfolio.netlify.app ( Html, Css ) <hr>
-Project 7 : Booking App - https://b0oking.netlify.app ( React Js ) <hr>
-Project 8 : ShopCart eCom - https://sh0pcart.netlify.app ( React Js ) <hr>
-Project 9 : ChatGPT 2.0 - https://client-chat-gpt-2-0.vercel.app ( React Js, Vite )
+Project 7 : Booking App - https://b0oking.netlify.app ( React Js ) ⭐️⭐️ <hr>
+Project 8 : ShopCart eCom - https://sh0pcart.netlify.app ( React Js ) ⭐️⭐️⭐️ <hr>
+Project 9 : ChatGPT 2.0 - https://client-chat-gpt-2-0.vercel.app ( React Js, Vite ) ⭐️
