@@ -29,22 +29,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nadim-chowdhury&theme=react&hide_border=false) <br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nadim-chowdhury&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-profile-trophy.vercel.app/?username=nadim-chowdhury&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
-
-# Latest Tweet
-[![](https://gtce.itsvg.in/api?username=nadim_ch0wdhury)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
-# Others + Projects
-[![](https://visitcount.itsvg.in/api?id=nadim-chowdhury&icon=0&color=0)](https://visitcount.itsvg.in)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/e822074f-81bc-4382-9a2e-4ecc50917465/deploy-status)](https://app.netlify.com/sites/coiinbase/deploys)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/8f239498-a82d-4013-8ade-dc266e0b3908/deploy-status)](https://app.netlify.com/sites/gpt3aiclone/deploys)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/602da712-2a69-4bf0-9508-d997b55d49dd/deploy-status)](https://app.netlify.com/sites/hoo-bnk/deploys) <hr>
-
-Project 1 : HooBank App - https://hoo-bnk.netlify.app ( React Js, Vite ) <hr>
-Project 2 : GPT-3 Ai - https://gpt3aiclone.netlify.app ( React Js ) <hr>
-Project 3 : CoinBase Clone - https://coiinbase.netlify.app ( React Js ) <hr>
-Project 4 : E-Commerce Site - https://ec0mmerce.netlify.app ( Html, Css, Js ) <hr>
-Project 5 : Cars Website - https://greatcars.netlify.app ( Html, Css ) <hr>
-Project 6 : Vanilla Resume - https://vanillaportfolio.netlify.app ( Html, Css ) <hr>
-Project 7 : Booking App - https://b0oking.netlify.app ( React Js ) ⭐️⭐️ <hr>
-Project 8 : ShopCart eCom - https://sh0pcart.netlify.app ( React Js ) ⭐️⭐️⭐️ <hr>
-Project 9 : ChatGPT 2.0 - https://client-chat-gpt-2-0.vercel.app ( React Js, Vite ) ⭐️
