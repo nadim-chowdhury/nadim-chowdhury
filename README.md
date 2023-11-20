@@ -1,5 +1,5 @@
 # About Me
-#### I'm a creative and passionate programmer and developer who likes to build and develop software for any platform. Learning, improving skills, solving problems, and adapting to new technologies are my hobbies. I can give my total effort and perform teamwork with responsibility.
+#### As a creative and passionate programmer/developer I like to build and develop software for any platform. Learning, improving skills, solving problems, and adapting to new technologies are my hobbies. I can give my total effort and perform teamwork with responsibility.
 
 # Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nadim-chowdhury)
